@@ -8,7 +8,7 @@ function animItems () {
 
         const windowHeight = window.innerHeight
         const showTop = anim[i].getBoundingClientRect().top
-        const animPoint = 150
+        const animPoint = 1
 
         if(showTop < windowHeight - animPoint) {
             anim[i].classList.add('active')
