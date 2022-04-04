@@ -122,7 +122,7 @@ body {
 
 .main-block__cover {
     color: var(--white-color);
-    background-image: url(/assets/Image-cover.jpg);
+    background-image: url(../assets/Image-cover.jpg);
     background-position: center center;
     background-repeat: no-repeat;
     background-size: cover;
